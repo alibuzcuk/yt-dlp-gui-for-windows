@@ -1,0 +1,2 @@
+yt_indir_gui.exe filter=lfs diff=lfs merge=lfs -text
+yt-dlp-gui.exe filter=lfs diff=lfs merge=lfs -text
