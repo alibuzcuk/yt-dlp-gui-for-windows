@@ -8,3 +8,6 @@ The user is responsible for any actions taken in this application, such as downl
 Thanks to:
 FFmpeg build: https://github.com/BtbN
 yt-dlp:https://github.com/yt-dlp/yt-dlp
+
+Not:
+We do not have a certificate yet. We will add it later. We would like you to ignore the warning at the beginning.
