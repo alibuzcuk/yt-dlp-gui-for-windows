@@ -14,3 +14,6 @@ yt-dlp:https://github.com/yt-dlp/yt-dlp
 NOT:
 BLUE OR RED SMART DEFEND WARNING MEANS THERE IS A non-SIGNATURE or free-SIGNATURE. IF I HAVE THE MONEY, I WILL MAKE IT PAID OR SIGN MY CODE
 
+## License
+This project is licensed under the GNU General Public License v3.0 (GPLv3) - see the [LICENSE](LICENSE) file for details.
+
